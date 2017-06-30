@@ -1,0 +1,6 @@
+STATUS INFO : @ 22:21:02 MSG : Starting Application IN : Initialization
+
+*** ERROR *** : @ 22:21:22 MSG : Error: Game File does not exist. IN : DoTheWork
+
+STATUS INFO : @ 22:21:22 MSG : Terminating Application IN : Finalization
+
